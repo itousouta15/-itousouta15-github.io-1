@@ -27,4 +27,4 @@ The following features are pre-supported:
 
 The configuration of Hexo is in `_config.yml`  
 The configuration of Reimu is in `_config.reimu.yml`  
-You can modify the configuration according to your needs
+You can modify the configuration according to your needs# -itousouta15-github.io-1
