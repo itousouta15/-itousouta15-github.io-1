@@ -1,0 +1,3 @@
+[submodule "themes/reimu-template"]
+    path = themes/reimu-template
+    url = https://github.com/itousouta15/reimu-template.git
