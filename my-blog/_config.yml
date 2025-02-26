@@ -30,9 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-git add _config.yml
-git commit -m "Fix theme configuration"
-git push origin main
+theme: minima
 plugins:
   - jekyll-feed
 
